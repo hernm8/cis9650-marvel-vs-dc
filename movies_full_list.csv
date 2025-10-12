@@ -1,0 +1,128 @@
+,Title,Year,Box Office,Rotten Tomatoes,Franchise
+0,The Dark Knight,2008,534987076,94,DC
+1,Wonder Woman,2017,412845172,93,DC
+2,Teen Titans GO! To the Movies,2018,29790236,92,DC
+3,Shazam!,2019,140480049,90,DC
+4,The Suicide Squad,2021,55817425,N/A,DC
+5,The Lego Batman Movie,2017,175936671,89,DC
+6,A History of Violence,2005,31504633,88,DC
+7,Superman II,1980,108185706,88,DC
+8,The Dark Knight Rises,2012,448149584,87,DC
+9,Superman,1978,134478449,88,DC
+10,The Batman,2022,369345583,85,DC
+11,Batman Begins,2005,206863479,85,DC
+12,Batman: Mask of the Phantasm,1993,5635204,83,DC
+13,Superman,2025,353980047,83,DC
+14,Road to Perdition,2002,104454762,82,DC
+15,Batman Returns,1992,162924631,82,DC
+16,Birds of Prey and the Fantabulous Emancipation of One Harley Quinn,2020,84172791,79,DC
+17,Blue Beetle,2023,72488072,78,DC
+18,Batman,1989,251409241,77,DC
+19,Superman Returns,2006,200081192,72,DC
+20,V for Vendetta,2005,70511035,73,DC
+21,RED,2010,90380162,72,DC
+22,Batman: Return of the Caped Crusaders,2016,N/A,94,DC
+23,DC League of Super-Pets,2022,93657117,72,DC
+24,Zack Snyder's Justice League,2021,N/A,71,DC
+25,Joker,2019,335477657,68,DC
+26,Aquaman,2018,335104314,66,DC
+27,Watchmen,2009,107509799,64,DC
+28,The Flash,2023,108133313,63,DC
+29,Swamp Thing,1982,N/A,62,DC
+30,Wonder Woman 1984,2020,46801036,57,DC
+31,Man of Steel,2013,291045518,57,DC
+32,The Return of Swamp Thing,1989,192816,56,DC
+33,Batman and Harley Quinn,2017,N/A,50,DC
+34,Shazam! Fury of the Gods,2023,57638006,49,DC
+35,The Losers,2010,23591432,47,DC
+36,Constantine,2005,75976178,46,DC
+37,RED 2,2013,53262560,44,DC
+38,Batman Forever,1995,184069126,41,DC
+39,Justice League,2017,229024295,39,DC
+40,Black Adam,2022,168152111,39,DC
+41,Batman: The Killing Joke,2016,3775000,35,DC
+42,Aquaman and the Lost Kingdom,2023,124481226,33,DC
+43,Joker: Folie à Deux,2024,58300287,31,DC
+44,Superman III,1983,59950623,31,DC
+45,Batman v Superman: Dawn of Justice,2016,330360194,28,DC
+46,Suicide Squad,2016,325100054,26,DC
+47,Green Lantern,2011,116601172,26,DC
+48,The Kitchen,2019,12180032,24,DC
+49,Catwoman,2004,40202379,8,DC
+50,Jonah Hex,2010,10547117,11,DC
+51,Steel,1997,1710972,8,DC
+52,Superman IV: The Quest for Peace,1987,15681020,15,DC
+53,Batman & Robin,1997,107353792,11,DC
+54,Batman: The Movie,1966,N/A,80,DC
+55,Superman and the Mole-Men,1951,N/A,N/A,DC
+0,Howard the Duck,1986,16295774,13,Marvel
+1,Daredevil,2003,102543518,42,Marvel
+2,Elektra,2005,24409722,11,Marvel
+3,The Punisher,2004,33810189,30,Marvel
+4,Punisher: War Zone,2008,8050977,29,Marvel
+5,Ghost Rider,2007,115802596,28,Marvel
+6,"The Path to Vengeance: Making 'Ghost Rider, Spirit of Vengeance'",2012,N/A,N/A,Marvel
+7,Blade,1998,70087718,59,Marvel
+8,Blade II,2002,82348319,57,Marvel
+9,Blade: Trinity,2004,52411906,24,Marvel
+10,X-Men,2000,157299718,82,Marvel
+11,X2: X-Men United,2003,214949694,85,Marvel
+12,X-Men: The Last Stand,2006,234362462,56,Marvel
+13,X-Men Origins: Wolverine,2009,179883157,37,Marvel
+14,X-Men: First Class,2011,146408305,86,Marvel
+15,The Wolverine,2013,132556852,71,Marvel
+16,X-Men: Days of Future Past,2014,233921534,90,Marvel
+17,Deadpool,2016,363070709,85,Marvel
+18,X-Men: Apocalypse,2016,155442489,47,Marvel
+19,Logan,2017,226277068,93,Marvel
+20,Deadpool 2,2018,324591735,83,Marvel
+21,X-Men: Dark Phoenix,2019,65845974,22,Marvel
+22,The New Mutants,2020,23852659,37,Marvel
+23,Spider-Man,2002,407774549,89,Marvel
+24,Spider-Man 2,2004,375087840,93,Marvel
+25,Spider-Man 3,2007,337281992,63,Marvel
+26,The Amazing Spider-Man,2012,262782352,71,Marvel
+27,The Amazing Spider-Man 2,2014,203605622,50,Marvel
+28,Venom,2018,213515506,31,Marvel
+29,Venom: Let There Be Carnage,2021,213550366,58,Marvel
+30,Morbius,2022,73865530,15,Marvel
+31,Madame Web,2024,43817106,10,Marvel
+32,Venom: The Last Dance,2024,139755882,40,Marvel
+33,Kraven the Hunter,2024,25026310,15,Marvel
+34,Iron Man,2008,319034126,94,Marvel
+35,The Incredible Hulk,2008,134806913,68,Marvel
+36,Iron Man 2,2010,312433331,72,Marvel
+37,Thor,2011,181030624,77,Marvel
+38,Captain America: The First Avenger,2011,176654505,80,Marvel
+39,The Avengers,2012,623357910,91,Marvel
+40,Iron Man 3,2013,409013994,79,Marvel
+41,Thor: The Dark World,2013,206362140,67,Marvel
+42,Captain America: The Winter Soldier,2014,259766572,90,Marvel
+43,Guardians of the Galaxy,2014,333718600,92,Marvel
+44,Avengers: Age of Ultron,2015,459005868,75,Marvel
+45,Ant-Man,2015,180202163,83,Marvel
+46,Captain America: Civil War,2016,408084349,90,Marvel
+47,Doctor Strange,2016,232641920,89,Marvel
+48,Guardians of the Galaxy Vol. 2,2017,389813101,85,Marvel
+49,Spider-Man: Homecoming,2017,334952829,92,Marvel
+50,Thor: Ragnarok,2017,315058289,93,Marvel
+51,Black Panther,2018,700426566,96,Marvel
+52,Avengers: Infinity War,2018,678815482,85,Marvel
+53,Ant-Man and the Wasp,2018,216648740,87,Marvel
+54,Captain Marvel,2019,426829839,79,Marvel
+55,Avengers: Endgame,2019,858373000,94,Marvel
+56,Spider-Man: Far from Home,2019,391283774,91,Marvel
+57,Black Widow,2021,183651655,79,Marvel
+58,Shang-Chi and the Legend of the Ten Rings,2021,224543292,92,Marvel
+59,Eternals,2021,164870234,47,Marvel
+60,Spider-Man: No Way Home,2021,814866759,93,Marvel
+61,Doctor Strange in the Multiverse of Madness,2022,411331607,73,Marvel
+62,Thor: Love and Thunder,2022,343256830,63,Marvel
+63,Black Panther: Wakanda Forever,2022,453829060,84,Marvel
+64,Ant-Man and the Wasp: Quantumania,2023,214504909,46,Marvel
+65,Guardians of the Galaxy Vol. 3,2023,358995815,82,Marvel
+66,The Marvels,2023,84500223,63,Marvel
+67,Deadpool & Wolverine,2024,636745858,78,Marvel
+68,Captain America: Brave New World,2025,200500001,46,Marvel
+69,Thunderbolts*,2025,190274328,88,Marvel
+70,The Fantastic Four: First Steps,2025,272903891,N/A,Marvel
