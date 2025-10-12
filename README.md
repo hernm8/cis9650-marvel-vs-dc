@@ -13,4 +13,4 @@ Michael Hernandez | Ralph Bernardo | Emmanuel Mendez
 This project compares the **Comparing Movie Performance and Ratings** from 1950 – 2025.  
 Our goal is to explore which brand performs better and whether one franchise shows more consistency over time.
 
-We used the **OMDb API** to pull official movie data (titles, release years, and box-office earnings), cleaned the results in Python, and ran descriptive analysis with basic visualizations.
+We used the **OMDb API** to pull official movie data ( Ratings and box-office earnings), cleaned the results in Python, and ran descriptive analysis with basic visualizations.
